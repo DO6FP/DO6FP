@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DO6FP Felix
 - 👀 I’m interested in HAM Radio, IoT applications and a lot more!
-- 🌱 I’m currently learning Python for web usecases
 - 📫 How to reach me do6fp@do6fp.de
 
 <!---
